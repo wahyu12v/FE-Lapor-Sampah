@@ -764,7 +764,7 @@ nav {
 .news__title {
   font-size: 1.5em; 
   margin: 10px 0; 
-  max-height: 10vh; 
+  max-height: 15vh; 
   overflow: hidden; 
   text-overflow: ellipsis; 
   display: -webkit-box; 
