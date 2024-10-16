@@ -80,6 +80,14 @@ ScrollReveal().reveal(" .client__swiper", {
   delay: 500,
 });
 
+ScrollReveal().reveal(" .news__card", {
+  ...scrollRevealOption,
+  delay: 500,
+});
+
+
+
+
 ScrollReveal().reveal(" .unggul__image", {
   ...scrollRevealOption,
   delay: 200,
