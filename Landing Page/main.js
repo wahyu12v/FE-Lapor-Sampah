@@ -75,6 +75,21 @@ ScrollReveal().reveal(" .container_form", {
   delay: 500,
 });
 
+ScrollReveal().reveal(" .client__swiper", {
+  ...scrollRevealOption,
+  delay: 500,
+});
+
+ScrollReveal().reveal(" .unggul__image", {
+  ...scrollRevealOption,
+  delay: 200,
+});
+
+
+ScrollReveal().reveal(" .report__table", {
+  ...scrollRevealOption,
+  delay: 500,
+});
 
 
 ScrollReveal().reveal(" .containerbutton", {
@@ -83,10 +98,6 @@ ScrollReveal().reveal(" .containerbutton", {
 });
 
 
-ScrollReveal().reveal(" .unggul_gambar", {
-  ...scrollRevealOption,
-  delay: 500,
-});
 
 
 var swiper = new Swiper('.swiper', {
@@ -103,10 +114,7 @@ ScrollReveal().reveal(".team__card", {
   interval: 500,
 });
 
-ScrollReveal().reveal(".unggul__image img", {
-  ...scrollRevealOption,
-  origin: "left",
-});
+
 ScrollReveal().reveal(".unggul__content .section__header", {
   ...scrollRevealOption,
   delay: 500,

@@ -3,7 +3,7 @@
 :root {
   --primary-color:#41B06E ;
   --primary-color-light: #b0fce3;
-  --primary-color-dark: red;
+  --primary-color-dark: rgb(68, 19, 245);
   --text-dark: #1679AB;
   --text-light: #6b7280;
   --white: #ffffff;
@@ -714,11 +714,6 @@ nav {
 
 }
 
-
-
-
-
-/* Error Page */
 
 
 
